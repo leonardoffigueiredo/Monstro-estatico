@@ -1,3 +1,11 @@
-# Monstro-estatico
+# Monstro Estatico
 
-Neste repositório, apresento um fascinante projeto de um site interativo, onde criei um "monstro" elétrico que reage em tempo real ao movimento do mouse. À medida que você desloca o cursor, o monstro acompanha os movimentos de forma dinâmica e envolvente. Esta experiência proporciona uma interação divertida, combinando elementos visuais e linguagens de programação(no casso html, css, js) para criar uma experiência legal.
+Neste repositório, compartilho um intrigante projeto de site interativo que apresenta um "monstro" elétrico, reagindo em tempo real aos movimentos do cursor. Esta experiência cativante oferece uma interação dinâmica, combinando elementos visuais com linguagens de programação, como HTML, CSS e JavaScript. O site permite uma interação única, onde o monstro segue os movimentos do cursor de maneira dinâmica, proporcionando uma experiência envolvente e divertida para os usuários.
+
+Arquivos:
+
+# index.html
+# script.js
+# style.css
+
+Esse conteúdo inclui um arquivo HTML para a estrutura da página, um arquivo JavaScript para a lógica e interação do monstro com o cursor, e um arquivo CSS para a estilização e aparência do site.
